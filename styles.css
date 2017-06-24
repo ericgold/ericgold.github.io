@@ -97,7 +97,7 @@ section.work a {
 }
 
 section.work a:hover {
-	color: var(--color-light);
+	color: var(--color-primary);
 }
 
 section.work.feature {
@@ -106,7 +106,7 @@ section.work.feature {
 }
 
 section.work.feature a:hover {
-	color: var(--color-primary);
+	color: var(--color-light);
 }
 
 section.work h2 {
