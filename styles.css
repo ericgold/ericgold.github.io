@@ -66,7 +66,7 @@ main {
 		grid-row: 5 / 7;
 	}
 
-	.jekyll {
+	.static {
 		grid-row: 7;
 	}
 
@@ -206,7 +206,7 @@ footer {
 		grid-row: 3 / 5;
 	}
 
-	.jekyll {
+	.static {
 		grid-column: 1;
 		grid-row: 3;
 	}
@@ -247,7 +247,7 @@ footer {
 		grid-row: 1;
 	}
 
-	.jekyll {
+	.static {
 		grid-column: 3;
 		grid-row: 3;
 	}
